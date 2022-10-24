@@ -28,3 +28,6 @@ npm run dev
 npm run build
 ```
 # game-2P
+
+### Demo example project:
+![image](https://user-images.githubusercontent.com/104157123/197584399-8fd35e0d-5769-457b-8335-4792fba5fd2f.png)
